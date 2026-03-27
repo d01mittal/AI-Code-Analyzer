@@ -1,4 +1,4 @@
-# AI Code Analyzer
+# CodeLens AI
 
 The **AI Code Analyzer** is a Flask-based web application that allows users to upload code files(supported files types are .cpp, .java, .txt, .py, .c) or paste code snippets for analysis. The app provides insights into potential bottlenecks, optimizations, and best practices to improve the quality of the submitted code.
 
